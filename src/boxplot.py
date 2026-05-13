@@ -14,9 +14,10 @@ print(df.shape)
 
 # Create boxplot
 plt.figure(figsize=(12, 6))
-df.boxplot()
-plt.title('California Housing Dataset - Boxplot')
+df.boxplot(rot = 45)
+plt.title('Boxplot of California Housing Dataset') 
 plt.ylabel('Values')
-plt.xticks(rotation=45)
+plt.xlabel('Features')
 plt.tight_layout()
+plt.savefig("figs/boxplot.png", dpi=300, bbox_inches='tight')
 plt.show()
