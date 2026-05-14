@@ -1,3 +1,15 @@
+# A01 – GitHub Basics Assignment
+
+## 📘 Project Description
+This project is part of Assignment A01 for OPIM 5512.  
+The purpose of the assignment is to practice essential GitHub skills, including:
+
+- Creating and organizing a repository  
+- Adding files and folders (`src/` and `figs/`)  
+- Writing and updating a README file  
+- Using branches and pull requests  
+- Running a Python script to generate a plot  
+
 ## 🔧 How to Run the Code
 Follow the steps below to generate the boxplot:
 
