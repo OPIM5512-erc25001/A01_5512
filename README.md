@@ -4,7 +4,7 @@ Follow the steps below to generate the boxplot:
 ```bash
 git clone https://github.com/OPIM5512-erc25001/A01_5512.git
 cd A01_5512
-### 2.  if requirement is present, install required python packages
+### 2. if requirement is present, install required python packages 
 pip install -r requirements.text
 ### 3. Run the boxplot script
 python src/boxplot.py
